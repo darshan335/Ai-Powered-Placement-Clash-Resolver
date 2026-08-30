@@ -1,0 +1,43 @@
+# ==============================
+# Frontend - React / Vite
+# ==============================
+
+frontend/node_modules/
+frontend/dist/
+
+# Environment files
+frontend/.env
+frontend/.env.local
+frontend/.env.development.local
+frontend/.env.production.local
+
+
+# ==============================
+# Backend - Spring Boot / Maven
+# ==============================
+
+backend/target/
+
+# Environment / secrets
+backend/.env
+
+# IDE files
+backend/.idea/
+backend/*.iml
+
+# Eclipse / STS
+backend/.classpath
+backend/.project
+backend/.settings/
+
+# VS Code
+.vscode/
+
+
+# ==============================
+# OS files
+# ==============================
+
+.DS_Store
+Thumbs.db
+desktop.ini
