@@ -101,3 +101,64 @@ Ai-Powered-Placement-Clash-Resolver/
 ├── .gitignore
 └── README.md
 ```
+# 📸 Application Screenshots
+
+## Dashboard
+
+The dashboard provides an overview of placement activities, upcoming drives,
+registered students, and scheduling conflicts.
+
+![Dashboard](screenshots/Dashboard.png)
+
+---
+
+## Student Management
+
+The student management section allows placement administrators to manage
+student records and placement eligibility.
+
+![Students](screenshots/students.png)
+
+---
+
+## Company Management
+
+Companies can be managed and associated with placement drives.
+
+![Companies](screenshots/companies.png)
+
+---
+
+## Placement Drive Management
+
+Placement officers can create and manage placement drives with company,
+job role, date, time, venue, package, and eligible students.
+
+![Placement Drives](screenshots/drive.png)
+
+---
+
+## Conflict Detection
+
+The system detects overlapping placement drives and identifies potential
+scheduling conflicts.
+
+![Conflict Detection](screenshots/conflicts.png)
+
+---
+
+## Schedule Checker
+
+The schedule checker analyzes a proposed placement schedule and provides
+available alternative slots when conflicts occur.
+
+![Schedule Checker](screenshots/schedule.png)
+
+---
+
+## AI-Powered Analysis
+
+Google Gemini analyzes the backend-calculated scheduling information and
+generates a concise recommendation and explanation.
+
+![AI Analysis](screenshots/Ai.png)
