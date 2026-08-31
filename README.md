@@ -101,64 +101,58 @@ Ai-Powered-Placement-Clash-Resolver/
 ├── .gitignore
 └── README.md
 ```
-# 📸 Application Screenshots
+## 📸 Application Screenshots
 
-## Dashboard
+### 🏠 Dashboard
 
-The dashboard provides an overview of placement activities, upcoming drives,
-registered students, and scheduling conflicts.
+The dashboard provides an overview of placement activities, upcoming placement
+drives, active scheduling conflicts, and registered students.
 
 ![Dashboard](screenshots/Dashboard.png)
 
 ---
 
-## Student Management
-
-The student management section allows placement administrators to manage
-student records and placement eligibility.
-
-![Students](screenshots/students.png)
-
----
-
-## Company Management
-
-Companies can be managed and associated with placement drives.
-
-![Companies](screenshots/companies.png)
-
----
-
-## Placement Drive Management
+### 📅 Placement Drive
 
 Placement officers can create and manage placement drives with company,
 job role, date, time, venue, package, and eligible students.
 
-![Placement Drives](screenshots/drive.png)
+![Placement Drive](screenshots/drive.png)
 
 ---
 
-## Conflict Detection
+### 📅 Multiple Placement Drives
 
-The system detects overlapping placement drives and identifies potential
-scheduling conflicts.
+The system displays scheduled placement drives and their details in a
+centralized interface.
+
+![Placement Drives](screenshots/drive2.png)
+
+---
+
+### ⚠️ Conflict Detection
+
+The system identifies overlapping placement drives and highlights potential
+scheduling conflicts involving students.
 
 ![Conflict Detection](screenshots/conflicts.png)
 
 ---
 
-## Schedule Checker
+### 🔍 Schedule Checker
 
-The schedule checker analyzes a proposed placement schedule and provides
-available alternative slots when conflicts occur.
+The schedule checker allows the placement officer to check a proposed
+placement schedule and find an available alternative slot when a conflict
+is detected.
 
 ![Schedule Checker](screenshots/schedule.png)
 
 ---
 
-## AI-Powered Analysis
+### 🤖 AI-Powered Analysis
 
-Google Gemini analyzes the backend-calculated scheduling information and
-generates a concise recommendation and explanation.
+The system uses AI to analyze the detected scheduling conflict and provide
+a concise recommendation based on the backend-calculated information.
 
+![AI Analysis](screenshots/AI.png)
 ![AI Analysis](screenshots/Ai.png)
